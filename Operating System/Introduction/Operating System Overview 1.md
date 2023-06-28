@@ -22,6 +22,6 @@ The kernel is the core of the operating system. It is responsible for managing t
 
 Middleware is software that sits between the operating system and the application programs. It provides services such as networking, security, and database access. Middleware helps to make it easier for application programs to interact with each other and with the operating system.
 
-![The next file](Operating System Overview 2.md)
+![The next file](Operating_System_Overview_2.md)
 
 ---
