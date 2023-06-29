@@ -134,3 +134,21 @@ Protection and security in an operating system involve measures taken to ensure 
 Protection and security measures are crucial for maintaining the confidentiality, integrity, and availability of system resources, ensuring user privacy, and protecting against potential threats or attacks.
 
 ---
+
+#### Some Questions related to operating system functions
+
+- What are the four main functions of an operating system?
+- What is the difference between memory management and process management?
+- What are the different types of file systems?
+- How does an operating system manage input and output devices?
+- What are the security features of an operating system?
+- What are the performance metrics of an operating system?
+- What are the different types of operating systems?
+- What are the advantages and disadvantages of different types of operating systems?
+- Explain the role of an operating system in a computer system.
+- Discuss the different ways in which an operating system can manage memory.
+- Describe the different types of process scheduling algorithms.
+- Explain how an operating system manages input and output devices.
+- Discuss the security features of an operating system.
+- Evaluate the performance of an operating system.
+- Compare and contrast different types of operating systems.
