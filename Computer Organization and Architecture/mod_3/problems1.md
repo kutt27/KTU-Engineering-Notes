@@ -42,3 +42,65 @@
    b) ID (Instruction Decode) - EX (Execution) - MEM (Memory Access) - WB (Write-back)
 
 10. Problem: Given a pipeline with hazard detection and resolution techniques, analyze a sequence of instructions to identify any potential hazards and explain how they can be resolved.
+
+### Some more
+
+**1. Explain the algorithm for multiplication of binary numbers.**
+
+- What are the different steps involved in multiplying binary numbers?
+- What are the different cases that need to be considered when multiplying binary numbers?
+- How do you handle overflow when multiplying binary numbers?
+
+**2. Describe the algorithm for division using the restoring method for binary numbers.**
+
+- What are the different steps involved in dividing binary numbers using the restoring method?
+- What are the different cases that need to be considered when dividing binary numbers using the restoring method?
+- How do you handle overflow when dividing binary numbers using the restoring method?
+
+**3. What is an array multiplier? Explain its working.**
+
+- What is an array multiplier?
+- How does an array multiplier work?
+- What are the advantages and disadvantages of using an array multiplier?
+
+**4. How does Booth's multiplication algorithm work? Discuss its advantages and disadvantages.**
+
+- How does Booth's multiplication algorithm work?
+- What are the advantages of using Booth's multiplication algorithm?
+- What are the disadvantages of using Booth's multiplication algorithm?
+
+**5. What are the basic principles of pipelining? How does pipelining improve performance in computer systems?**
+
+- What are the basic principles of pipelining?
+- How does pipelining improve performance in computer systems?
+- What are the different types of hazards that can occur in pipelined systems?
+
+**6. In Lecture 1, what are the different classifications of pipeline processors? Discuss each classification in detail.**
+
+- What are the different classifications of pipeline processors?
+- Discuss each classification in detail.
+- What are the advantages and disadvantages of each classification?
+
+**7. In Lecture 2, what are the additional classifications of pipeline processors? Explain each classification and their significance.**
+
+- What are the additional classifications of pipeline processors?
+- Explain each classification and their significance.
+- What are the advantages and disadvantages of each classification?
+
+**8. Explain the concept of instruction pipelines. How do they enhance the efficiency of instruction execution in a computer system?**
+
+- What is an instruction pipeline?
+- How do instruction pipelines enhance the efficiency of instruction execution in a computer system?
+- What are the different types of hazards that can occur in instruction pipelines?
+
+**9. What are arithmetic pipelines? Discuss their purpose and benefits.**
+
+- What are arithmetic pipelines?
+- What is their purpose?
+- What are the benefits of using arithmetic pipelines?
+
+**10. What are hazards in pipeline processing? How are they detected and resolved in computer systems?**
+
+- What are hazards in pipeline processing?
+- How are they detected?
+- How are they resolved?
