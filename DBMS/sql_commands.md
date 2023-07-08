@@ -189,9 +189,7 @@ UPDATE Employees SET Department = 'Operations' WHERE EmployeeID = 2;
 
 After executing the above statement, the Employees table will be updated:
 
-| EmployeeID | Name     | Age |
-
-Department  |
+| EmployeeID | Name     | Age |Department  |
 |------------|----------|-----|-------------|
 | 1          | John     | 25  | Marketing   |
 | 2          | Sarah    | 28  | Operations  |
@@ -283,9 +281,7 @@ Assuming there is a Departments table with DepartmentID and DepartmentName colum
 
 | Name     | Age | DepartmentName |
 |----------|-----|----------------|
-| John
-
-| 25  | Marketing      |
+| John     | 25  | Marketing      |
 | Sarah    | 28  | Finance        |
 | Michael  | 30  | Operations     |
 | Emily    | 25  | Marketing      |
@@ -370,7 +366,7 @@ Output:
 | Benjamin | 27  | Finance        |
 | Olivia   | 29  | HR             |
 | Ethan    | 26  | Marketing      |
-| Ava      | 31  | HR            
+| Ava      | 31  | HR             |
 
 ### UNION
 
