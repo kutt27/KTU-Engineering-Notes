@@ -133,7 +133,8 @@ There are many different factors that can contribute to moral autonomy. These in
 - One's upbringing: The way in which one is raised can have a significant impact on one's moral development. If one is raised in a household where moral autonomy is valued, one is more likely to develop the capacity for moral autonomy.
 - One's education: Education can also play a role in moral development. By learning about different moral theories and perspectives, one can develop the ability to think for oneself about what is right and wrong.
 - One's life experiences: One's life experiences can also shape one's moral development. By encountering different situations and challenges, one can learn to think for oneself about what is right and wrong.
-- Moral autonomy is an important aspect of human development. It allows us to make our own decisions about what is right and wrong, and to act in accordance with our own moral beliefs. This can lead to a more fulfilling and meaningful life.
+
+Moral autonomy is an important aspect of human development. It allows us to make our own decisions about what is right and wrong, and to act in accordance with our own moral beliefs. This can lead to a more fulfilling and meaningful life.
 
 
 *Profession and Professionalism*
