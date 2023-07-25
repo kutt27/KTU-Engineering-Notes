@@ -98,9 +98,7 @@ Let's consider the same five processes with their arrival times, burst times, an
 
 | Process | Burst Time | Arrival Time | Completion Time | TAT | WT |
 |---------|------------|--------------|-----------------|-----|----|
-| P2      |
-
- 3          | 1            | 4               | 3   | 0  |
+| P2      | 3          | 1            | 4               | 3   | 0  |
 | P4      | 4          | 3            | 8               | 5   | 1  |
 | P1      | 6          | 0            | 14              | 14  | 8  |
 | P3      | 8          | 2            | 22              | 20  | 12 |
